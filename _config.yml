@@ -5,9 +5,8 @@ url: "https://www.bryancovell.com"
 nav:
   main:
     experience: "/experience"
-    speaking: "/speaking"
     projects: "/projects"
-    photos: "https://www.flickr.com/photos/brikis98/albums/"
+    education: "/education"
   writing:
     all: "/writing"
     popular: "/writing/popular"
