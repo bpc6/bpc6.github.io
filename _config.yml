@@ -1,12 +1,13 @@
 # Website settings
-url: "https://www.bryancovell.com"
+url: "https://www.ybrikman.com"
 
 # Internal nav
 nav:
   main:
-    experience: "/experience"
+    writing: "/writing"
+    speaking: "/speaking"
     projects: "/projects"
-    education: "/education"
+    photos: "https://www.flickr.com/photos/brikis98/albums/"
   writing:
     all: "/writing"
     popular: "/writing/popular"
