@@ -1,10 +1,10 @@
 # Website settings
-url: "https://www.ybrikman.com"
+url: "https://www.bryancovell.com"
 
 # Internal nav
 nav:
   main:
-    writing: "/writing"
+    experience: "/experience"
     speaking: "/speaking"
     projects: "/projects"
     photos: "https://www.flickr.com/photos/brikis98/albums/"
