@@ -1,5 +1,5 @@
 # Website settings
-url: "https://www.ybrikman.com"
+url: "http://www.bryancovell.com"
 
 # Internal nav
 nav:
@@ -15,44 +15,30 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Yevgeniy Brikman"
-description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
-thumbnail_path: "profile-photos/yevgeniy-brikman-medium.jpg"
-bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
-hello_startup_url: "https://www.hello-startup.net/"
-website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
-atomic_squirrel_url: "https://www.atomic-squirrel.net/"
-gruntwork_url: "https://www.gruntwork.io/"
-terraform_up_and_running_url: "https://www.terraformupandrunning.com/"
-terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
+name: "Bryan Covell" # home button, copyright, etc gets this text
+description: "The Website of Bryan Covell. Forked from Yevgeniy Brikman."
+thumbnail_path: "profile-photos/bryan-professional.jpg"
+website_repo_url: "https://github.com/bpc6/bpc6.github.io"
+# terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 
 # URLs
 contact_urls:
-  twitter:
-    url: "https://twitter.com/brikis98"
-    label: "Twitter"
-    icon: "twitter-square"
-    username: "@brikis98"
   linkedin:
-    url: "https://www.linkedin.com/in/jbrikman"
+    url: "https://www.linkedin.com/in/bryancovell/"
     label: "LinkedIn"
     icon: "linkedin-square"
   facebook:
-    url: "https://www.facebook.com/brikis98"
+    url: "https://www.facebook.com/bryan.covell.79"
     label: "Facebook"
     icon: "facebook-square"
-  slideshare:
-    url: "https://www.slideshare.net/brikis98"
-    label: "SlideShare"
-    icon: "slideshare"
   github:
-    url: "https://github.com/brikis98/"
+    url: "https://github.com/bpc6"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:jim@ybrikman.com"
+    url: "mailto:bpcovell@gmail.com"
     label: "Email"
-    value: "jim@ybrikman.com"
+    value: "bpcovell@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
@@ -63,8 +49,8 @@ sass:
   sass_dir: "/assets/css"
   style: :compressed
 highlighter: rouge
-timezone: 'America/Los_Angeles'
-repository: brikis98/yevgeniy-brikman-homepage
+timezone: 'America/New_York'
+repository: bpc6/bpc6.github.io
 
 # Plugins (GitHub Pages only support a few)
 gems:
