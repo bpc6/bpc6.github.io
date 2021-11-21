@@ -17,7 +17,7 @@ nav:
 # Bio settings
 name: "Bryan Covell" # home button, copyright, etc gets this text
 description: "The Website of Bryan Covell. Forked from Yevgeniy Brikman."
-thumbnail_path: "profile-photos/bryan-professional.jpg"
+thumbnail_path: "profile-photos/bryan-professional-square.jpg"
 website_repo_url: "https://github.com/bpc6/bpc6.github.io"
 # terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 
