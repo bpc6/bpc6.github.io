@@ -27,19 +27,19 @@ contact_urls:
     url: "https://www.linkedin.com/in/bryancovell/"
     label: "LinkedIn"
     icon: "linkedin-square"
-  facebook:
-    url: "https://www.facebook.com/bryan.covell.79"
-    label: "Facebook"
-    icon: "facebook-square"
-  github:
-    url: "https://github.com/bpc6"
-    label: "GitHub"
-    icon: "github-square"
   email:
     url: "mailto:bpcovell@gmail.com"
     label: "Email"
     value: "bpcovell@gmail.com"
     icon: "envelope-square"
+  github:
+    url: "https://github.com/bpc6"
+    label: "GitHub"
+    icon: "github-square"
+  facebook:
+    url: "https://www.facebook.com/bryan.covell.79"
+    label: "Facebook"
+    icon: "facebook-square"
 
 # Jekyll build settings
 paginate: 10
